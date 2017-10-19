@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Vianetz_Exporter>
+            <version>1.0.0</version>
+        </Vianetz_Exporter>
+    </modules>
+
+    <global>
+        <models>
+            <vianetz_exporter>
+                <class>Vianetz_Exporter_Model</class>
+            </vianetz_exporter>
+        </models>
+
+        <helpers>
+            <vianetz_exporter>
+                <class>Vianetz_Exporter_Helper</class>
+            </vianetz_exporter>
+        </helpers>
+    </global>
+</config>
